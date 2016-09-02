@@ -1,35 +1,3 @@
-<?php
-    //
-    include_once "classes/PDOHelper.class.php";
-
-    // hot item
-    $jewelry = array();
-    $bagShoseClothes = array();
-    $healthCare = array();
-
-    // get inforamtion by id
-    $pdo = new PDOHelper(array('charset'=> 'UTF8'));
-
-    //build query string
-    $sql="SELECT *
-          FROM items
-          WHERE isHot = 1";
-
-    //call pdoHelper method getRow() and get result.
-    $res = $pdo->getAll($sql);
-
-    foreach ($res as $value) {
-        if ($value["itemType"] == 3) {
-            array_push($jewelry, $value["itemPicture"]);
-        }
-        else if ($value["itemType"] == 2) {
-            array_push($bagShoseClothes, $value["itemPicture"]);
-        }
-        else if ($value["itemType"] == 4) {
-            array_push($healthCare, $value["itemPicture"]);
-        }
-    }
-?>
 <!doctype html>
 <html lang="zh">
 <head>
@@ -183,54 +151,54 @@
                 <ul class="pullDownList">
                     <li class="menulihover">
                         <i class="listi1"></i>
-                        <a href="sortPage.php?id=4" target="_blank">保健</a>
+                        <a href="" target="_blank">保健</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi2"></i>
-                        <a href="sortPage.php?id=5" target="_blank">日用</a>
+                        <a href="" target="_blank">日用</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi3"></i>
-                        <a href="sortPage.php?id=6" target="_blank">母婴</a>
+                        <a href="" target="_blank">母婴</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi4"></i>
-                        <a href="sortPage.php?id=7" target="_blank">食品</a>
+                        <a href="" target="_blank">食品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi5"></i>
-                        <a href="sortPage.php?id=8" target="_blank">包包</a>
+                        <a href="" target="_blank">包包</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi6"></i>
-                        <a href="sortPage.php?id=2" target="_blank">服饰</a>
-                        /<a href="sortPage.php?id=2" target="_blank">鞋</a>
+                        <a href="" target="_blank">服饰</a>
+                        /<a href="" target="_blank">鞋</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi7"></i>
-                        <a href="sortPage.php?id=3" target="_blank">首饰</a>
-                        /<a href="sortPage.php?id=4" target="_blank">饰品</a>
+                        <a href="" target="_blank">首饰</a>
+                        /<a href="" target="_blank">饰品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi8"></i>
-                        <a href="sortPage.php?id=1" target="_blank">化妆护肤品</a>
+                        <a href="" target="_blank">化妆护肤品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi9"></i>
-                        <a href="#" target="_blank">其他</a>
+                        <a href="" target="_blank">其他</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi10"></i>
-                        <a href="#" target="_blank">优惠信息</a>
+                        <a href="" target="_blank">优惠信息</a>
                         <span></span>
                     </li>
                 </ul>
