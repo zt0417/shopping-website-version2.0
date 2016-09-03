@@ -93,30 +93,133 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html"; charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/contentIndex.js"></script>
-<link type="text/css" rel="stylesheet" href="css/style.css">
-<link type="text/css" rel="stylesheet" href="css/foot.css">
-<link type="text/css" rel="stylesheet" href="css/healthCare.css">
+<meta charset="utf-8" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>同福杂货铺</title>
+<meta name="baidu-site-verification" content="rnyMiv2JC1" />
+<link href="css/comm.css" rel="stylesheet" type="text/css" /> 
+<script type="text/javascript" src="js/jquery-1.5.1.min.js" charset="gb2312"></script>
+<script type="text/javascript" src="js/jquery.countdownTimer.min.js" charset="gb2312"></script>
+<script type="text/javascript" src="js/user-defined.js" charset="gb2312"></script>
 
-<title>E-Commerce</title>
-</head>
-<body>
-<div class="col-sm-1"></div>
-<div class="col-sm-10">
-	<div class="page-header nopadding" id="nomargin">
-		<div id="floatleft">
-			<a href="index.php">
-				<img src="images/logo.gif" height="55px" weight="250px" border="0">
-			</a>
-		</div>
-    	<h1>同&nbsp;&nbsp;福&nbsp;&nbsp;杂&nbsp;&nbsp;货&nbsp;&nbsp;铺<p id="floatright" class="contentWord"><img src="images/weChat.jpg" alt="">联系我们： wechat_1234</p></h1>
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
 
+
+<style>
+.flexslider {
+    margin: 0px 20px 0px 30%;
+    position: relative;
+    width: 70%;
+    height: 300px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.flexslider .slides li {
+    width: 100%;
+    height: 100%;
+}
+
+.flex-direction-nav a {
+    width: 70px;
+    height: 70px;
+    line-height: 99em;
+    overflow: hidden;
+    margin: -35px 0 0;
+    display: block;
+    background: url(images/ad_ctr.png) no-repeat;
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all .3s ease;
+    border-radius: 35px;
+}
+
+.flex-direction-nav .flex-next {
+    background-position: 0 -70px;
+    right: 0;
+}
+
+.flex-direction-nav .flex-prev {
+    left: 0;
+}
+
+.flexslider:hover .flex-next {
+    opacity: 0.8;
+    filter: alpha(opacity=25);
+}
+
+.flexslider:hover .flex-prev {
+    opacity: 0.8;
+    filter: alpha(opacity=25);
+}
+
+.flexslider:hover .flex-next:hover,
+.flexslider:hover .flex-prev:hover {
+    opacity: 1;
+    filter: alpha(opacity=50);
+}
+
+.flex-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+}
+
+.flex-control-nav li {
+    margin: 0 2px;
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+}
+
+.flex-control-paging li a {
+    background: url(images/dot.png) no-repeat 0 -16px;
+    display: block;
+    height: 16px;
+    overflow: hidden;
+    text-indent: -99em;
+    width: 16px;
+    cursor: pointer;
+}
+
+.flex-control-paging li a.flex-active,
+.flex-control-paging li.active a {
+    background-position: 0 0;
+}
+
+.flexslider .slides a img {
+    width: 100%;
+    height: 482px;
+    display: block;
+}
+</style>
+<body style="background-color: #f4f8f9;">
+<style type="text/css" media="screen">.ic_nav .grid_c1{position: relative;}</style>
+<!--[if !IE]>|xGv00|cd7101d01d2175464b4ea36a5cf3264b<![endif]-->
+<!-- 头部start -->
+<div class="ic_toolbar">
+    <div class="grid_c1">
+        <div class="mod_entry">
+        </div>
     </div>
+</div>
+
+<div class="ic_header">
+    <div class="grid_c1">  
+		<div class="mod_logo">
+            <h1>
+               <a href="#" ytag="00300"><img src="img/logo.png" alt="同福杂货铺" /></a>
+            </h1>        
+        </div>
+    </div>
+</div>
 
 		<table class="table" id="tab">
 			<thead>
@@ -174,34 +277,98 @@
 
 <div class="footBlank"></div>
 
-<div class="footContent">
-	<div class="splitLine"></div>
-	<div class="footBlank"></div>
-	<div class="footerCenter ">
-		<div class="col-sm-3">
-			<h4>关于我们</h4>
-			<h5><a href="about.html">关于同福</a></h5>
-			<h5><a href="contactMe.html">联系我们</a></h5>
-			<h5><a href="suggest.html">意见反馈</a></h5>
-		</div>
-		<div class="col-sm-3">
-			<h4>商家服务</h4>
-			<h5><a href="businessCenter.html">商家中心</a></h5>
-		</div>
-		<div class="col-sm-3">
-			<h4>同福帮助</h4>
-			<h5><a href="helpCenter.html">同福帮助中心</a></h5>
-			<h5><a href="shoppingHelp.html">购物帮助</a></h5>
-		</div>
-		<div class="col-sm-3">
-			<h4>关注我们</h4>
-			<h5>微信</h5>
-			<h5><a href="#">新浪微博</a></h5>
-		</div>
-	</div>
+<div class="mod_backtop hide" id="j_backtop"><a href="javascript:" title="回顶部" ytag="72300">回顶部</a></div>
+<div class="ic_market" id="j_market">
+    <div class="grid_c1">
+        <a target="_blank" class="market_link" title="17期：送货狂想曲" href="#" ytag="70000"><img src="img/bottompic.jpg" class="market_img_1" /></a>
+    </div>
 </div>
 
-<div class="footBlank"></div>
+<script>
+ var b = $("#j_backtop");
+        if (b.length > 0) {
+            var c = document.documentElement.clientHeight || document.body.clientHeight;
+            var a = Math.min(c, 500);
+            $(window).bind("scroll resize",
+            function() {
+                var e = $(this).scrollTop();
+                if (e < a) {
+                    b.fadeOut()
+                } else {
+                    b.fadeIn()
+                }
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    var d = c - 200 + e;
+                    b.css({
+                        top: d
+                    })
+                }
+            });
+            b.click(function() {
+                $(window).scrollTop(0);
+                return false
+            })
+        }
+</script><!--[if !IE]>|xGv00|214340f353f2e67f2068580a6653e1d8<![endif]-->
+
+<div class="ic_footer">
+    <div class="ic_footer_inner">
+    </br></br>
+        <div class="mod_help">                  
+            <div class="mod_help_item">
+                <h5>常用服务</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70100" rel="nofollow">问题咨询</a></li>
+                    <li><a target="_blank" href="#" ytag="70101" rel="nofollow">修改订单</a></li>
+                    <li><a target="_blank" href="#" ytag="70102" rel="nofollow">催办订单</a></li>
+                </ul>
+            </div>                  
+
+        <div class="mod_help_item">
+                <h5>购物</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70200" rel="nofollow">怎样购物</a></li>
+                    <li><a target="_blank" href="#" ytag="70202" rel="nofollow">订单状态说明</a></li>
+                </ul>
+            </div>                  
+        <div class="mod_help_item">
+            <h5>付款</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70300" rel="nofollow">货到付款</a></li>
+                    <li><a target="_blank" href="#" ytag="70301" rel="nofollow">在线支付</a></li>
+                    <li><a target="_blank" href="#" ytag="70302" rel="nofollow">其他支付方式</a></li>
+                    <li><a target="_blank" href="#" ytag="70303" rel="nofollow">发票说明</a></li>
+                </ul>
+            </div>                  
+        <div class="mod_help_item">
+                <h5>配送</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70400" rel="nofollow">同福快递</a></li>
+                    <li><a target="_blank" href="#" ytag="70401" rel="nofollow">价格保护</a></li>
+                </ul>
+        </div>                  
+
+        <div class="mod_help_item">
+                <h5>售后</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70500" rel="nofollow">售后服务政策</a></li>
+                    <li><a target="_blank" href="#" ytag="70501" rel="nofollow">退换货服务流程</a></li>
+                    <li><a target="_blank" href="#" ytag="70502" rel="nofollow">优质售后服务</a></li>
+                </ul>
+        </div>                  
+
+        <div class="mod_help_item">
+                <h5>供货商家</h5>
+                <ul>
+                    <li><a target="_blank" href="#" ytag="70600" rel="nofollow">采购地点</a></li>
+                </ul>
+        </div>              
+        </div>
+
+        
+    </div>
+</div>
+    </br></br>
 
 </body>
 </html>
