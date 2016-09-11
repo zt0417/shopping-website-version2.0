@@ -122,11 +122,11 @@
     </div>
 </div>
 
-<div class="ic_header ">
+<div class="ic_header">
     <div class="grid_c1">  
-        <div class="mod_logo" >
+		<div class="mod_logo">
             <h1>
-               <a href="index.php"><img src="img/logo.png" alt="同福杂货铺" /></a>
+               <a href="#" ytag="00300"><img src="img/logo.png" alt="同福杂货铺" /></a>
             </h1>        
         </div>
     </div>
@@ -134,6 +134,11 @@
 <!-- 头部end -->
 
 <script type="text/javascript" src="js/header.js?v=2015011615" charset="utf-8"></script>
+
+
+
+
+
 
     <!--  顶部    start-->
     <div class="yHeader">
@@ -146,62 +151,462 @@
                 <ul class="pullDownList">
                     <li class="menulihover">
                         <i class="listi1"></i>
-                        <a href="sortPage.php?id=4"target="_blank">保健</a>
-                        <!-- <span></span> -->
-                    </li>
-                </br>
+                        <a href="" target="_blank">保健</a>
+                        <span></span>
+                    </li></br>
                     <li>
                         <i class="listi2"></i>
-                        <a href="sortPage.php?id=5" target="_blank">日用</a>
+                        <a href="" target="_blank">日用</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi3"></i>
-                        <a href="sortPage.php?id=6" target="_blank">母婴</a>
+                        <a href="" target="_blank">母婴</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi4"></i>
-                        <a href="sortPage.php?id=7" target="_blank">食品</a>
+                        <a href="" target="_blank">食品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi5"></i>
-                        <a href="sortPage.php?id=8" target="_blank">包包</a>
+                        <a href="" target="_blank">包包</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi6"></i>
-                        <a href="sortPage.php?id=2" target="_blank">服饰</a>
-                        /<a href="sortPage.php?id=2" target="_blank">鞋</a>
+                        <a href="" target="_blank">服饰</a>
+                        /<a href="" target="_blank">鞋</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi7"></i>
-                        <a href="sortPage.php?id=3" target="_blank">首饰</a>
-                        /<a href="sortPage.php?id=4" target="_blank">饰品</a>
+                        <a href="" target="_blank">首饰</a>
+                        /<a href="" target="_blank">饰品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi8"></i>
-                        <a href="sortPage.php?id=1" target="_blank">化妆护肤品</a>
+                        <a href="" target="_blank">化妆护肤品</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi9"></i>
-                        <a href="#" target="_blank">其他</a>
+                        <a href="" target="_blank">其他</a>
                         <span></span>
                     </li></br>
                     <li>
                         <i class="listi10"></i>
-                        <a href="#" target="_blank">优惠信息</a>
+                        <a href="" target="_blank">优惠信息</a>
                         <span></span>
                     </li>
                 </ul>
                             <!-- 下拉详细列表具体分类 -->
-<!--             <div class="yMenuListCon">
+            <div class="yMenuListCon">
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
 
-            </div> -->
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="yMenuListConin">
+                    <div class="yMenuLCinList">
+                        <h3><a href="" class="yListName">精品男装</a><a href="" class="yListMore">更多 ></a></h3>
+                        <p>
+                            <a href="" class="ecolor610">大牌上新</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                            <a href="">商场同款</a>
+                            <a href="">男装集结</a> 
+                            <a href="">羽绒服</a>
+                            <a href="">加厚羽绒 </a>
+                            <a href="">高帮鞋</a>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
 
             </div>
 
@@ -213,18 +618,18 @@
     <div class="yBanner">
         <div class="yBannerList">
             <div class="yBannerListIn">
-                <a href="sortPage.php?id=4">
-                    <img class="ymainBanner" src="images/costco.jpg">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner1.jpg">
                     <span class="ytextBanner" style="opacity:1;">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/healthyThree.png"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -233,17 +638,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/walmart.jpg">
+                    <img class="ymainBanner" src="images/banner2.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/v2.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -258,11 +663,11 @@
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/c1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -271,17 +676,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/chocolate.jpg">
+                    <img class="ymainBanner" src="images/banner1.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/a1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -290,17 +695,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/bag.jpg">
+                    <img class="ymainBanner" src="images/banner2.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/b1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -309,17 +714,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/outlet.jpg">
+                    <img class="ymainBanner" src="images/banner3.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/n1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -328,17 +733,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/Swarovski.jpg">
+                    <img class="ymainBanner" src="images/banner2.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/j1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -347,17 +752,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/theBay.jpg">
+                    <img class="ymainBanner" src="images/banner3.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/m1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -366,17 +771,17 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/other.jpg">
+                    <img class="ymainBanner" src="images/banner1.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/o1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
@@ -385,21 +790,117 @@
         <div class="yBannerList ybannerHide">
             <div class="yBannerListIn">
                 <a href="">
-                    <img class="ymainBanner" src="images/costco1.jpg">
+                    <img class="ymainBanner" src="images/banner2.jpg">
                     <span class="ytextBanner">
                     </span>
                 </a>
                 <div class="yBannerListInRight">
                     <a href="">
-                        <img src="images/c1-1.jpg"/>
+                        <img src="images/BR1.jpg"/>
                     </a>
                     <b class="yimaginaryLine"></b>
                     <a href="">
-                        <img src="images/wechat.png"/>
+                        <img src="images/BR2.jpg"/>
                     </a>
                 </div>
             </div>
         </div>
+
+        <div class="yBannerList ybannerHide">
+            <div class="yBannerListIn">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner3.jpg">
+                    <span class="ytextBanner">
+                    </span>
+                </a>
+                <div class="yBannerListInRight">
+                    <a href="">
+                        <img src="images/BR1.jpg"/>
+                    </a>
+                    <b class="yimaginaryLine"></b>
+                    <a href="">
+                        <img src="images/BR2.jpg"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="yBannerList ybannerHide">
+            <div class="yBannerListIn">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner1.jpg">
+                    <span class="ytextBanner">
+                    </span>
+                </a>
+                <div class="yBannerListInRight">
+                    <a href="">
+                        <img src="images/BR1.jpg"/>
+                    </a>
+                    <b class="yimaginaryLine"></b>
+                    <a href="">
+                        <img src="images/BR2.jpg"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="yBannerList ybannerHide">
+            <div class="yBannerListIn">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner2.jpg">
+                    <span class="ytextBanner">
+                    </span>
+                </a>
+                <div class="yBannerListInRight">
+                    <a href="">
+                        <img src="images/BR1.jpg"/>
+                    </a>
+                    <b class="yimaginaryLine"></b>
+                    <a href="">
+                        <img src="images/BR2.jpg"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="yBannerList ybannerHide">
+            <div class="yBannerListIn">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner3.jpg">
+                    <span class="ytextBanner">
+                    </span>
+                </a>
+                <div class="yBannerListInRight">
+                    <a href="">
+                        <img src="images/BR1.jpg"/>
+                    </a>
+                    <b class="yimaginaryLine"></b>
+                    <a href="">
+                        <img src="images/BR2.jpg"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="yBannerList ybannerHide">
+            <div class="yBannerListIn">
+                <a href="">
+                    <img class="ymainBanner" src="images/banner1.jpg">
+                    <span class="ytextBanner">
+                    </span>
+                </a>
+                <div class="yBannerListInRight">
+                    <a href="">
+                        <img src="images/BR1.jpg"/>
+                    </a>
+                    <b class="yimaginaryLine"></b>
+                    <a href="">
+                        <img src="images/BR2.jpg"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+
     </div>
     <!-- banner   end -->
 
@@ -409,8 +910,8 @@
 
     <!-- 头部end -->
     <div id="J_beauty_bg_top">
-        <div class="g-wrap f-clearfix">
-            <div class="g-change-l">          
+    	<div class="g-wrap f-clearfix">
+    	    <div class="g-change-l">		  
                 <div class="w_h J_scrollspy mt5">
                     <div class="brand-tit">
                         <div class="brand-tit-l">
@@ -432,182 +933,7 @@
                         <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
                             <div class="goodsnew_box">
                                  <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/bagShoseClothes/1-1.jpg" class="goodsnew_img">
-                                </a>
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="香蕉共和国">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">BANANA PUBLIC 香蕉共和国</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">时尚打折女装</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">32</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/bagShoseClothes/1-2.jpg" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="香蕉共和国">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">BANANA PUBLIC 香蕉共和国</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">时尚打折女装</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">48</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/bagShoseClothes/1-3.jpg" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="COACH">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">COACH 包包</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">价格合理质量保证</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">36</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/jewelry/2-1.png" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="施华洛世奇">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">SWAROVSKI 经典饰品</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">精品水晶项链</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">28</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/jewelry/2-2.png" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="施华洛世奇">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">SWAROVSKI 经典饰品</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">Crystalline Dark Blue 手表</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">14</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/jewelry/2-3.png" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="香蕉共和国">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">简约配饰</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">设计品味独到</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">12</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/healthCare/3-1.png" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="美赞臣奶粉">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">Enfamil 奶粉</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">健康 放心 假一赔十</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">47</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/healthCare/3-2.png" class="goodsnew_img">
-                                </a>
-
-                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
-                                </div>
-
-                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
-                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
-                                </a>
-                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
-                            </div>
-                            <div class="goodsnew_infos">
-                                <p class="goodsnew_name" title="骨维力">
-                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">健康骨骼</a>
-                                </p>
-                                <span class="goodsnew_discount"><span class="salebg2">52</span>月销</span>
-                            </div>
-                        </li>
-                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
-                            <div class="goodsnew_box">
-                                 <a href="#" target="_blank" class="J_to_list">
-                                     <img src="images/popular/healthCare/3-3.png" class="goodsnew_img">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
                                 </a>
 
                                 <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
@@ -621,16 +947,257 @@
                             <div class="goodsnew_infos">
                                 <p class="goodsnew_name" title="天然三文鱼油">
                                     <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
-                                    <a title="" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
                                 </p>
-                                <span class="goodsnew_discount"><span class="salebg2">42</span>月销</span>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
                             </div>
                         </li>
-                       
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
+                        <li id="J_pms_wrap_337670" class="goodsnew_item trans200" data-hover="goodsnew_item_hover">
+                            <div class="goodsnew_box">
+                                 <a href="#" target="_blank" class="J_to_list">
+                                     <img src="images/p_1.jpg" class="goodsnew_img">
+                                </a>
+
+                                <div class="goodsnew_promot hidden"><span id="J_pms_337670" class="goodsnew_promot_t fwr" title=""></span><i class="goodsnew_promot_icon"></i>
+                                </div>
+
+                                <a href="#" target="_blank" class="goodsnew_time J_goodsnew_time trans200 fwr">
+                                    <span timedata="2015/02/20 00:00:00" class="J_countdown_c" id="hotSaleWrap_3_date_5" datetype="C"></span>
+                                </a>
+                                <i class="J_goodsnew_icon goodsnew_icon_over hidden"></i>
+                            </div>
+                            <div class="goodsnew_infos">
+                                <p class="goodsnew_name" title="天然三文鱼油">
+                                    <a href="#" class="goodsnew_soldintro {$sloganShowCls}">KIRKLAND北美经典品牌</a>
+                                    <a title="珀莱雅PROYA护肤专场" href="#" target="_blank" class="J_to_list">100%纯天然野生三文鱼油</a>
+                                </p>
+                                <span class="goodsnew_discount"><span class="salebg2">30</span>月销</span>
+                            </div>
+                        </li>
                     </ul>
                 </div>
-           </div>
-        <!--右侧-->
+    	   </div>
+    	<!--右侧-->
             <div class="g-fixed-r">
                 <div class="parents-care-products" id="J_pcpWrap"> 
                     <div class="reco-content-wrap">
@@ -683,42 +1250,42 @@
             <div class="mod_help_item">
                 <h5>常用服务</h5>
                 <ul>
-                    <li><a target="_blank" href="HelpCentrePage.html#Advisory" ytag="70100" rel="nofollow">问题咨询</a></li>
-                    <li><a target="_blank" href="HelpCentrePage.html#ChangeOrderForm" ytag="70101" rel="nofollow">修改订单</a></li>
-                    <li><a target="_blank" href="HelpCentrePage.html#Orderreminders" ytag="70102" rel="nofollow">催办订单</a></li>
+                    <li><a target="_blank" href="#" ytag="70100" rel="nofollow">问题咨询</a></li>
+                    <li><a target="_blank" href="#" ytag="70101" rel="nofollow">修改订单</a></li>
+                    <li><a target="_blank" href="#" ytag="70102" rel="nofollow">催办订单</a></li>
                 </ul>
             </div>                  
 
         <div class="mod_help_item">
                 <h5>购物</h5>
                 <ul>
-                    <li><a target="_blank" href="ShopingGuidPage.html#HowToBuy" ytag="70200" rel="nofollow">怎样购物</a></li>
-                    <li><a target="_blank" href="ShopingGuidPage.html#OrderStatusDescription" ytag="70202" rel="nofollow">订单状态说明</a></li>
+                    <li><a target="_blank" href="#" ytag="70200" rel="nofollow">怎样购物</a></li>
+                    <li><a target="_blank" href="#" ytag="70202" rel="nofollow">订单状态说明</a></li>
                 </ul>
             </div>                  
         <div class="mod_help_item">
             <h5>付款</h5>
                 <ul>
-                    <li><a target="_blank" href="PaymentCenterPage.html#CashonDelivery" ytag="70300" rel="nofollow">货到付款</a></li>
-                    <li><a target="_blank" href="PaymentCenterPage.html#OnlinePayment" ytag="70301" rel="nofollow">在线支付</a></li>
-                    <li><a target="_blank" href="PaymentCenterPage.html#OtherPayment" ytag="70302" rel="nofollow">其他支付方式</a></li>
-                    <li><a target="_blank" href="PaymentCenterPage.html#InvoiceDescription" ytag="70303" rel="nofollow">发票说明</a></li>
+                    <li><a target="_blank" href="#" ytag="70300" rel="nofollow">货到付款</a></li>
+                    <li><a target="_blank" href="#" ytag="70301" rel="nofollow">在线支付</a></li>
+                    <li><a target="_blank" href="#" ytag="70302" rel="nofollow">其他支付方式</a></li>
+                    <li><a target="_blank" href="#" ytag="70303" rel="nofollow">发票说明</a></li>
                 </ul>
             </div>                  
         <div class="mod_help_item">
                 <h5>配送</h5>
                 <ul>
-                    <li><a target="_blank" href="DeliveryCenterPage.html#TongFuExpress" ytag="70400" rel="nofollow">同福快递</a></li>
-                    <li><a target="_blank" href="DeliveryCenterPage.html#PriceProtection" ytag="70401" rel="nofollow">价格保护</a></li>
+                    <li><a target="_blank" href="#" ytag="70400" rel="nofollow">同福快递</a></li>
+                    <li><a target="_blank" href="#" ytag="70401" rel="nofollow">价格保护</a></li>
                 </ul>
         </div>                  
 
         <div class="mod_help_item">
                 <h5>售后</h5>
                 <ul>
-                    <li><a target="_blank" href="AfterServicePage.html#AfterServicePolicy" ytag="70500" rel="nofollow">售后服务政策</a></li>
-                    <li><a target="_blank" href="AfterServicePage.html#ReturnServiceProcess" ytag="70501" rel="nofollow">退换货服务流程</a></li>
-                    <li><a target="_blank" href="AfterServicePage.html#QualityService" ytag="70502" rel="nofollow">优质售后服务</a></li>
+                    <li><a target="_blank" href="#" ytag="70500" rel="nofollow">售后服务政策</a></li>
+                    <li><a target="_blank" href="#" ytag="70501" rel="nofollow">退换货服务流程</a></li>
+                    <li><a target="_blank" href="#" ytag="70502" rel="nofollow">优质售后服务</a></li>
                 </ul>
         </div>                  
 
